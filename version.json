@@ -1,9 +1,1 @@
-{
-  "versionCode": 19,
-  "versionName": "1.15",
-  "apk": "https://raw.githubusercontent.com/Far1510/huft/main/releases/Huft.apk",
-  "notes": {
-    "en": "New: fire danger map and places to watch.",
-    "id": "Baru: peta rawan karhutla dan lokus prioritas."
-  }
-}
+{"versionCode": 20, "versionName": "1.16", "apk": "https://raw.githubusercontent.com/Far1510/huft/main/releases/Huft.apk", "notes": {"en": "New: a live blue dot shows where you are.", "id": "Baru: titik biru live menunjukkan posisi Anda."}}

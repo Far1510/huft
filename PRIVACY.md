@@ -12,7 +12,8 @@ Huft! dibuat oleh Far-2026 sebagai aplikasi gratis. Kami berusaha mengumpulkan s
 - Tidak ada iklan dan tidak ada pelacak analitik.
 
 **Lokasi**
-- Lokasi hanya dipakai jika Anda menekan tombol "lokasi saya", untuk menampilkan kualitas udara di titik Anda.
+- Jika Anda mengizinkan lokasi, Huft! menampilkan titik biru posisi Anda di peta. Posisi ini hanya diproses di HP Anda, tidak disimpan, dan berhenti diperbarui saat aplikasi tidak dibuka.
+- Kualitas udara di titik Anda hanya diambil jika Anda menekan tombol "lokasi saya".
 - Koordinat dibulatkan, lalu dikirim langsung dari HP Anda ke layanan data cuaca Open-Meteo untuk mengambil data kualitas udara di titik itu. Koordinat tidak dikirim ke Far-2026.
 - Anda bisa menolak atau mencabut izin lokasi kapan saja di pengaturan Android.
 
@@ -34,7 +35,7 @@ Pertanyaan tentang privasi dapat diajukan lewat halaman Issues di https://github
 Huft! is a free app made by Far-2026. We collect as little as possible.
 
 - **No server, no account, no ads, no analytics.** We do not store, sell or share personal data.
-- **Location** is used only when you tap "my location", to show the air quality where you are. Rounded coordinates go directly from your phone to Open-Meteo to fetch the air quality there. They are never sent to Far-2026. You can deny or revoke location access at any time in Android settings.
+- **Location:** if you allow it, Huft! shows a blue dot where you are. Your position is handled only on your phone, is not stored, and stops updating when the app is in the background. Air quality for your spot is fetched only when you tap "my location": rounded coordinates go directly from your phone to Open-Meteo to fetch the air quality there. They are never sent to Far-2026. You can deny or revoke location access at any time in Android settings.
 - **On-device data:** your language, appearance, saved places and the last downloaded data stay on your phone and are deleted when you uninstall the app.
 - **Third-party services:** to show maps and data, your phone connects directly to NASA FIRMS and NASA GIBS, Open-Meteo, ECMWF/Copernicus, EOX, OpenFreeMap, Amazon Web Services (terrain) and GitHub (update checks and downloads). Like any website, these services can see your IP address.
 - **Updates:** Huft! checks a version file on GitHub. Updates are downloaded only when you tap "Update".
