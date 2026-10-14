@@ -14,6 +14,7 @@ Huft! is a free Android app that shows fire hotspots, smoke and air quality acro
 - **Titik api** dari satelit NASA (VIIRS & MODIS), dengan jarak ke lokasi Anda · *Fire hotspots from NASA satellites, with distance from you*
 - **Asap & kualitas udara** (US AQI / ISPU) untuk 143 kota, dengan prakiraan 48 jam · *Smoke and air quality for 143 cities, with a 48-hour forecast*
 - **Asap di udara** dari Copernicus CAMS · *Wildfire smoke in the whole air column*
+- **Rawan karhutla** (metode FWI) dan **lokus prioritas**: zona rawan tinggi yang sudah ada titik apinya · *Fire danger forecast and places to watch*
 - **Awan Himawari** hampir real-time · *Near-live Himawari clouds*
 - **Arah angin**, saran kesehatan, tempat favorit · *Wind, health tips, saved places*
 - Peta satelit, mode gelap/terang, Bahasa Indonesia & English · *Satellite map, dark/light mode, two languages*
@@ -35,6 +36,7 @@ Huft! is a free Android app that shows fire hotspots, smoke and air quality acro
 | Smoke in the air | Copernicus CAMS, maps by [ECMWF](https://www.ecmwf.int/) | Copernicus licence, attribution |
 | Clouds | Himawari-9 (JMA) via [NASA GIBS](https://www.earthdata.nasa.gov/gibs) | Open |
 | Wind | [Open-Meteo](https://open-meteo.com/) | CC BY 4.0 |
+| Fire danger (FWI system) | Calculated in the app from [Open-Meteo](https://open-meteo.com/) weather; official warnings: [BMKG](https://www.bmkg.go.id/cuaca/karhutla) | CC BY 4.0 |
 | Satellite map | [EOxCloudless 2024](https://cloudless.eox.at/) by EOX IT Services GmbH | CC BY-NC-SA 4.0 |
 | Street map | [OpenFreeMap](https://openfreemap.org/), © OpenStreetMap contributors | ODbL |
 | Terrain | Mapzen Terrain Tiles (AWS Open Data) | Open |
